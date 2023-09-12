@@ -75,8 +75,8 @@ categories: atomic-radius ions ionization-energy electron-affinity common-charge
 
 ### Successsive Ionization Energies
 - \>1 electron can be removed from an atom to form an ion. 
-- The energy needed to remove the outermost n electrons is denoted I
-  <sub>n</sub>.
+- The energy needed to remove the outermost n electrons is denoted 
+  I<sub>n</sub>.
 - Metals have a low Z<sub>eff</sub>, lose electrons when forming ions, and
   have relatively low I<sub>1</sub>, whereas nonmetals have a higher
   effective charge, gain electrons when forming ions, and have a higher I
