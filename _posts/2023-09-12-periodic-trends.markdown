@@ -4,12 +4,34 @@ title: "5.3 Periodic Trends"
 date: 2023-09-12 10:38:00 -0700
 categories: atomic-radius ions ionization-energy electron-affinity common-charges
 ---
+## Links
+- Naming Compounds: http://home.miracosta.edu/dlr/naming.htm
+    - Do the worksheets and check your answers. More resources on 189, 191
+
 ## Vocab
-- Cation: ion w/ positive charge
-- Anion: ion w/ negative charge
+- Cation: ion w/ positive charge, happens to elements on the left hand side.
+- Anion: ion w/ negative charge, happens to elements on the right hand side.
 - Mole (mol): an amount of matter equal to the atomic mass in grams.
+- Atomic Radius: half the distance between nuclei of the same element, increases
+                 towards the bottom left.
+- Metallic Character: the tendency to lose an electron, increases diagonally up
+                      and to the right.
+- Ionization Energy: the energy it takes to remove the n<sup>th</sup> outermost
+                     electron, increases up and to the right.
+- Electron Affinity: the energy change that happens when an atom gains an
+                     electron, increases up and to the right.
+- Electronegativity: the ability of an atom of an element to attract electrons
+                     to itself in a chemical bond, increases up and to the right.
 
 ## Reading Notes
+
+### Patterns In Groups
+- As you go down a group, Z<sub>eff</sub> decreases, meaning it takes less
+  energy to remove the outermost electron.
+
+### Patterns In Periods
+- As you go across a period, Z<sub>eff</sub> 
+
 ### Atomic Radii
 - According to the principle of effective nuclear charge, periodic
   properties of elements are directly related to effective nuclear charge
@@ -60,7 +82,7 @@ categories: atomic-radius ions ionization-energy electron-affinity common-charge
   effective charge, gain electrons when forming ions, and have a higher I
   <sub>1</sub> because of that.
 
-### Ionization energies for Sodium Through Argon (p 148)
+### Ionization Energies for Sodium through Argon (p 148)
 
 | Element | I<sub>1</sub> | I<sub>2</sub> | I<sub>3</sub> | I<sub>4</sub> | I<sub>5</sub> | I<sub>6</sub> | I<sub>7</sub> |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -93,11 +115,24 @@ categories: atomic-radius ions ionization-energy electron-affinity common-charge
   due to their relatively low ionization energies. 
     - The tendency of an element to lose electrons and form cations is called
       metallic character.
-- 
+- Nonmetal elements in groups 15, 16, 17 tend to form anions, because they tend
+  to gain electrons due to high electron affinities.
+    - The tendency of an element to gain electrons is called nonmetallic
+      character.
+
+### Electronegativity
+- Atoms pull on shared electrons in bonds, and usually one atom has a greater
+  pull on the electrons.
+- Electronegativity is the ability of an atom of an element to attract electrons
+  towards itself in a chemical bond.
+    - Fluoride is the most electronegative element, meaning it always pulls
+      electrons towards itself when in a bond.
 
 ## Class Notes
 ### Flash News
 - Microbiomes in the gut are linked to diabetes, but this new study has linked a
   specific strain of bacteria that increases the body's response to insulin,
   meaning we can give probiotics to potential pre-diabetics.
-- Mendeleev prelab on wednesday
+- Mendeleev prelab on Wednesday
+- Negative in chem means "amount lost."
+    - ex. -5g = lost five grams
