@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "9/11/2023"
+title: "5.2 Periodic Table and Atomic Structure"
 date: 2023-09-11 19:41:00 -0700
 categories: coulomb z_eff quantum-numbers
 ---
