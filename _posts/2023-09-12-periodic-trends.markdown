@@ -30,7 +30,8 @@ categories: atomic-radius ions ionization-energy electron-affinity common-charge
   energy to remove the outermost electron.
 
 ### Patterns In Periods
-- As you go across a period, Z<sub>eff</sub> 
+- As you go across a period, Z<sub>eff</sub> increases, meaning it takes more
+  energy to remove the outermost electron.
 
 ### Atomic Radii
 - According to the principle of effective nuclear charge, periodic
