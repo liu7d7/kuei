@@ -39,8 +39,7 @@ categories: atomic-radius ions ionization-energy electron-affinity common-charge
 - Atomic Radius is half the distance between the nuclei of two atoms of 
   the same element, and is used to estimate the size of an atom. It is
   usually measured in picometers, or 10<sup>-12</sup> m. Atomic radius
-  <mark>increases from right (shortest) to left (longest) within a period.</mark>  It <mark>increases from top (shortest) to bottom (longest) within a group.
-  </mark>
+  increases from top (shortest) to bottom (longest) within a group.
 - As more protons are added across a period, Z<sub>eff</sub> increases.
   A larger Z<sub>eff</sub> results in a larger charge, leading to a
   larger repulsive force between them, leading to a longer atomic radius. 
