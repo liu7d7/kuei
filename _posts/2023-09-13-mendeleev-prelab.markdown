@@ -72,7 +72,7 @@ categories: mendeleev-lab
 | 8 | | | | |
 | 9 | | | | |
 
-## Procedure
+### Procedure
 1. Put on the proper Personal Protective Equipment, including goggles and 
    lab aprons. Prepare 36 testing wells by cleaning them of dust, removing 
    all contaminants, and labeling the wells with a piece of paper. After, 
