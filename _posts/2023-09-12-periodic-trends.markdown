@@ -26,7 +26,8 @@ categories: atomic-radius ions ionization-energy electron-affinity common-charge
 ## Reading Notes
 
 ### Patterns In Groups
-- As you go down a group, Z<sub>eff</sub> decreases, meaning it takes less
+- As you go down a group, Z<sub>eff</sub> stays about the same, but since there
+  are more energy levels, the atomic radius is larger. meaning it takes less 
   energy to remove the outermost electron.
 
 ### Patterns In Periods
