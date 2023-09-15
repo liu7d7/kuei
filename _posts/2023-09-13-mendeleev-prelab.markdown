@@ -20,19 +20,6 @@ categories: mendeleev-lab
   findings from Newland's octaves and Dobereiner's triads, combined them 
   with his discoveries, and created his table.
 
-### Hypothesis
-- I think we can group the elements according to their chemical behavior by 
-  testing how they react when put in various substances and grouping the 
-  elements that produce similar results together.
-
-### Materials
-- Chemical Splash Goggles
-- Apron
-- Reaction Plates
-- Stirring pins
-- unknown elements 1-9
-- four test solutions A, B, C, D
-
 ### Questions
 - How does Mendeleev’s periodic table differ from the modern periodic table?
     - Mendeleev’s table is different because it is sorted by atomic mass 
@@ -58,19 +45,18 @@ categories: mendeleev-lab
     - Solutions that react with each other need to be disposed of in a 
       separate container.
 
-### Data Table
+### Hypothesis
+- I think we can group the elements according to their chemical behavior by 
+  testing how they react when put in various substances and grouping the 
+  elements that produce similar results together.
 
-| Unknown | A-precipitates? | B-precipitates? | C-color | D-dissolved? |
-| --- | --- | --- | --- | --- |
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
-| 5 | | | | |
-| 6 | | | | |
-| 7 | | | | |
-| 8 | | | | |
-| 9 | | | | |
+### Materials
+- Chemical Splash Goggles
+- Apron
+- Reaction Plates
+- Stirring pins
+- unknown elements 1-9
+- four test solutions A, B, C, D
 
 ### Procedure
 1. Put on the proper Personal Protective Equipment, including goggles and 
@@ -92,6 +78,20 @@ categories: mendeleev-lab
    are toxic.
 6. Clean up the work area, and wash your hands to avoid bringing any
    hazardous materials outside the lab environment.
+
+### Data Table
+
+| Unknown | A-precipitates? | B-precipitates? | C-color | D-dissolved? |
+| --- | --- | --- | --- | --- |
+| 1 | | | | |
+| 2 | | | | |
+| 3 | | | | |
+| 4 | | | | |
+| 5 | | | | |
+| 6 | | | | |
+| 7 | | | | |
+| 8 | | | | |
+| 9 | | | | |
 
 ## Class Notes
 
