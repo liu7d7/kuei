@@ -19,7 +19,59 @@ categories: ionic-bonds chemical-bonding
       in their outer shell, which makes them stable.
     - Hydrogen and Helium are examples of atoms that can be stable with 2 
       valence electrons.
-- TODO!
+- Atoms generally lose or gain electrons to make their valence shells contain
+  eight electrons. Elements in groups 1 and 2 lose an electron to get an octet,
+  and elements in groups 15-17 tend to gain electrons to get an octet.
+    - <i>see the table below for ion charges by group</i>
+
+### Ion Charges By Group
+
+| 1A | 2A | 3A | 4A | 5A | 6A | 7A | 8A |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1<sup>+</sup> | 2<sup>+</sup> | 3<sup>+</sup> | 4+/4<sup>-</sup> | 3<sup>-</sup> | 2<sup>-</sup> | 1<sup>-</sup> | 0 |
+
+<i>Note how the atom always takes the shortest path to an octet</i>
+
+## Ionic Bonds
+- Ionic bonds occur when two elements that are equally charged but with opposing
+  signs react, producing an electrically neutral compound, or an ionic compound.
+- Ionic bonds must occur between two elements whose electronegativities differ
+  greatly (by more than 1.7, see table in Modern Chem p 176).
+    - This means one of the atoms in the bond takes posession of the valence
+      electrons of the other, so that they belong to one for nearly 100% of the
+      time.
+
+## Steps to Form an Ionic Bond
+This is an example between lithium and chlorine.
+1. Li has 1 valence electron, and Cl has 7. Since Li prefers to lose an electron
+   and Cl prefers to gain electrons, the valence electron of the lithium atom
+   transfers to the chlorine atom.
+2. We now have a lithium cation and a chlorine anion, with charges 1<sup>+</sup>
+   and 1<sup>-</sup>, respectively.
+3. The charges between the two atoms are now balanced, so they form an
+   electrically balanced compound. Our ionic compound is finished.
+
+## Crystal Lattices
+- Solids made out of atoms bonded with ionic bonds are actually laid out as a
+  crystal lattice, or an orderly, repeating, 3d pattern of lots of ions, atoms,
+  or molecules. 
+
+## Using Coulomb's Law to Find Bond Strength
+- Use 9.0×10<sup>9</sup> nm<sup>2</sup>/C<sup>2</sup> as <i>k<sub>e</sub></i>
+- Plug that into <i>k</i><sub>e</sub> * <i>q</i><sub>1</sub> * <i>q</i><sub>2</sub> / <i>d</i><sup>2</sup>
+
+## Properties of Ionic Compounds
+- Most ionic compounds are crystalline solids at room temperature. The shape of 
+  the crystal depends on the structure of the crystal lattice, which can be
+  seen in the unit cell, or the smallest part of the fractal lattice that still
+  makes up the crystalline structure.
+- Many ionic compounds dissolve in water as ions break away from the crystal to
+  be surrounded by water molecules.
+- The resulting solution is conductive, as the movement of the ions dissolved in
+  the solution is unrestricted.
+- Another property shared by ionic solids is high melting point, because it takes
+  a large amount of energy to overcome the strong forces binding the ions
+  together.
 
 ## Class Notes
 
