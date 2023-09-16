@@ -45,7 +45,7 @@ categories: ionic-bonds chemical-bonding
     - Ex. Sodium has 1 valence electron, Chlorine has 7, Chlorine takes posession
       of that extra electron, forms an ionic bond.
 
-## Other
+### Other
 - Coulomb's law can be used to show the strength of a bond.
     - Multiply the charges of the portions together, that magnitude is the 
       'strength' of the bond.
@@ -56,11 +56,11 @@ categories: ionic-bonds chemical-bonding
 - Model lab next friday to construct shapes
 - <b>Memorize Coulomb's law for the test!</b>
 
-## Electron Flow
+### Electron Flow
 - Electrons flow from anion side to cation side. The anions on one side donate 
   their electrons to the cations on the other side.
 
-## Prelab Corrections
+### Prelab Corrections
 - Prelab Q must be <i>before</i> the actual lab but <i>after</i> reading the 
   handouts. Must have these answered on prelab.
 - Be specific in procedure about #4 and #9.
