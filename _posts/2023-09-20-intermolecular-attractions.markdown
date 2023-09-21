@@ -6,11 +6,18 @@ categories: intermolecular-attractions
 ---
 ## Vocab
 - Intermolecular attractions: attractive forces between molecules that are weaker than ionic or covalent bonds.
-- Nonpolar molecules: a molecule without lone pairs.
+- Nonpolar molecules: a molecule with evenly distributed electrons that symmetrically cancel each other out.
+- Dipole: a molecule with two equally but oppositely charged ends (poles), hence _di_-_pole_.
+    - Temporary dipole: formed when a shared valence electron moves towards one atom making up the molecule,
+      giving that atom a slight negative charge and the other a slight positive charge temporarily.
+- Bulk properties: melting point, boiling point, volatility
 
 ## Van der Waals Forces
 - a.k.a dispersion forces and dipole interactions
-- These are the weakest molecular interactions, and is caused when electron motion in a molecule causes an
+
+### Dispersion Forces
+_outlined as London Dispersion in the table below_
+- These can be the weakest molecular interactions, and is caused when electron motion in a molecule causes an
   uneven distribution of charges.
     - This happens even in nonpolar molecules.
 - As the electron cloud in a molecule becomes larger, the dispersion forces become stronger, because the cloud
@@ -18,6 +25,31 @@ categories: intermolecular-attractions
     - Here, polarization means to cause temporary oppositely charged ends.
 - These happen even in nonpolar molecules because the sharing of electrons means that electrons travel between
   the two atoms, charging them temporarily.
+
+### Dipole Interactions
+_outlined as dipole-dipole in the table below_
+- These are electrostatic attractions between the oppositely charged regions of polar molecules, because of the
+  attractive force between the partially positive end of one dipole and the partially negative end of an 
+  adjacent dipole.
+    - ex. Iodine monochloride (ICl) is a polar molecule because 
+
+## Hydrogen Bonds
+- Hydrogen bonds occur when a hydrogen atom gets covalently bonded to a very electronegative atom such as 
+  oxygen, nitrogen, or fluorine. This only happens between hydrogen and the three elements listed previously
+  because hydrogen doesn't have other electrons to shield its valence electrons from the nucleus.
+    - The highly electronegative atom (the oxygen, nitrogen, or fluorine) hogs the valence electron for most of
+      the time it's being shared, so the N/O/F is partially negatively charged, and the hydrogen atoms are
+      partially positively charged.
+- Sometimes, a hydrogen atom gets bonded, but it's _not a hydrogen bond_ because it doesn't deal with one of the
+  three (nitrogen, oxygen, or fluorine, remember NOF)
+
+## Properties of Molecular Substances
+- Volatility: a measure of how easily a liquid evaporates. The stronger the intermolecular forces, the lower the
+  volatility, because the molecules are held together stronger, which prevents the phase change into gas from
+  happening.
+- Melting Point: Molecular substances usually have lower melting/boiling points than ionic compounds/metals
+  due to the weaker forces between molecules. The temperature at which the substances melt/boil depends on the
+  strength of the intermolecular forces.
 
 ## Class Notes
 - Flash news: Heating plastic to high temperatures can create a sustainable and clean energy source called
