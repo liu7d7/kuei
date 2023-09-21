@@ -43,6 +43,7 @@ categories: intermolecular-attractions
 - TODO: look deeper into the four types.
 
 ### Table of Intermolecular Forces
+
 | Force | Strength | Characteristics |
 | --- | --- | --- |
 | ion-dipole | 10 to 50 kJ/mole | ion-polar |
