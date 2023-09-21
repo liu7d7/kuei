@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Metallic Bonds"
+title: "6.2 Metallic Bonds"
 date: 2023-09-18 17:00:00 -0700
 categories: metallic-bonds sea-of-electrons
 ---

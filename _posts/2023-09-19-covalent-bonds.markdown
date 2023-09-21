@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Covalent Bonds"
+title: "6.3 Covalent Bonds"
 date: 2023-09-19 11:41:00 -0700
 categories: covalent-bonds
 ---
@@ -42,3 +42,17 @@ categories: covalent-bonds
 - Coordinate Covalent Bond: in CO molecule (Carbon and Oxygen), the oxygen atom donates an extra pair of
   electrons to form a triple bond.
     - In a molec, it doesn't matter which atom the electrons in the bond come from. 
+
+## VSEPR (Valence Shell Electron Pair Repulsion)
+- Take number of lone pairs + number of shared electrons (The subscript for B + The subscript for E), count to 1
+  in _s_, 3 in _p_, 5 in _d_, so on.
+- Ex. AB<sub>2</sub>E<sub>2</sub>: 2 + 2 = 4; sp<sup>3</sup>
+
+| | Linear | Trigonal-Planar | Bent/Angular | Tetrahedral | Trigonal-Pyramidal | Bent/Angular | Trigonal-Bipyramidal | Octahedral |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| B | 2 | 3 | 2 | 4 | 3 | 2 | 5 | 6 |
+| E | 0 | 0 | 1 | 0 | 1 | 2 | 0 | 0 |
+| Bonding Angles | 180&deg; | 120&deg; | 110&deg; | 109.5&deg; | 107&deg; | 104.5&deg; | 180&deg;, 120&deg; 90&deg; | 180&deg;, 90&deg; |
+| Hybridization | sp | sp<sup>2</sup> | sp<sup>2</sup> | sp<sup>3</sup> | sp<sup>3</sup> | sp<sup>3</sup> | sp<sup>3</sup>d | sp<sup>3</sup>d<sup>2</sup> |
+| Formula ex. | BeF<sub>2</sub> | BF<sub>3</sub> | ONF | CH<sub>4</sub> | NH<sub>3</sub> | H<sub>2</sub> | PCl<sub>5</sub> | SF<sub>6</sub> |
+| Written | AB<sub>2</sub> | AB<sub>3</sub> | AB<sub>2</sub>E | AB<sub>4</sub> | AB<sub>3</sub>E | AB<sub>2</sub>E<sub>1</sub> | AB<sub>5</sub> | AB<sub>6</sub> |

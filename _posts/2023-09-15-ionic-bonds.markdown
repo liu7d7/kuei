@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ionic Bonds"
+title: "6.1 Ionic Bonds"
 date: 2023-09-15 11:37:00 -0700
 categories: ionic-bonds chemical-bonding
 ---
@@ -54,24 +54,12 @@ This is an example between lithium and chlorine.
 ## Crystal Lattices
 - Solids made out of atoms bonded with ionic bonds are actually laid out as a
   crystal lattice, or an orderly, repeating, 3d pattern of lots of ions, atoms,
-  or molecules. 
+  or molecules.
 
 ## Using Coulomb's Law to Find Bond Strength
 - Use 9.0×10<sup>9</sup> nm<sup>2</sup>/C<sup>2</sup> as <i>k<sub>e</sub></i>
 - Plug that into <i>k</i><sub>e</sub> * <i>q</i><sub>1</sub> * <i>q</i><sub>2</sub> / <i>d</i><sup>2</sup>
-
-## Properties of Ionic Compounds
-- Most ionic compounds are crystalline solids at room temperature. The shape of 
-  the crystal depends on the structure of the crystal lattice, which can be
-  seen in the unit cell, or the smallest part of the fractal lattice that still
-  makes up the crystalline structure.
-- Many ionic compounds dissolve in water as ions break away from the crystal to
-  be surrounded by water molecules.
-- The resulting solution is conductive, as the movement of the ions dissolved in
-  the solution is unrestricted.
-- Another property shared by ionic solids is high melting point, because it takes
-  a large amount of energy to overcome the strong forces binding the ions
-  together.
+- 
 
 ## Class Notes
 
