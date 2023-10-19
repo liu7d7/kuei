@@ -1,0 +1,60 @@
+---
+layout: post
+title: "Phases"
+date: 2023-10-15 16:10:00 -0700
+categories: tutor
+---
+
+## Vocab
+- Phase: homogeneous part of the system in contact w/ other parts of the system but separated from them by a well-defined boundary.
+    - ex. Water + Oil -> 2 phases
+    - ex. Melted ice in iced tea -> 1 phase
+- Polarizability: the ease w/ which the electron distribution in the atom | molecule can be distorted.
+    - This increases w/ greater # of e-, more diffuse electron cloud.
+    - Generally increases w/ molar mass.
+- Induced dipole: https://lavelle.chem.ucla.edu/forum/viewtopic.php?t=36207
+
+## Phase
+- Gas
+    - Assumes volume and shape of container
+    - Low density
+    - Very compressible
+    - Free moving
+- Liquid
+    - Has a definite volume but assumes the shape of its container
+    - High density
+    - Barely compressible
+    - Slide past one another freely
+- Solid
+    - Has a definite volume but assumes the shape of its container
+    - High density
+    - Incompressible
+    - Vibrate about fixed positions
+- Gas moves more, therefore usually has more kinetic energy -> temperature than liquid, same reasoning for liquid & gas.
+- Three ways of motion: Translation, Rotation, Vibration.
+
+## Forces
+- Intermolecular forces are attractive forces between molecules.
+- Intramolecular forces hold atoms together in a molecule.
+- Intramolecular forces are way stronger than Intermolecular forces.
+    - Vaporize 1 mol of water: 41 kJ (inter)
+    - Break all OH bonds in 1 mol of water: 930 kJ (intra)
+- Measures of intermolecular force
+    - Boiling point
+    - Melting point
+    - &delta;H<sub>vap</sub>
+    - &delta;H<sub>fus</sub>
+    - &delta;H<sub>sub</sub>
+
+### Types of Intermolecular Forces
+- Dipole-Dipole: between 2 polar molecules. (opposite charges attract)
+- Ion-Dipole: between ion & polar molecule. 
+    - Strength: use coulomb's law, size, strength of charge, all changes strength.
+- Dispersion: result of temporary dipoles induced in atoms | molecs.
+- Hydrogen Bond: special dipole-dipole interaction between the hydrogen atom in a polar N-H, O-H, or F-H bond and an electronegative N, O, or F atom.
+    - _a_ -- H * _b_ where _a_, _b_ are N, O, or F.
+- What's the type of force between:
+    - HBr: HBr is a polar molecule ->  
+
+
+
